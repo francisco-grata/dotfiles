@@ -1,0 +1,74 @@
+# Colors (IBM Carbon inspired)
+live_config_reload: true
+custom_cursor_colors: true
+#window:
+#  opacity: 0.85
+font:
+  normal:
+    family: BerkeleyMono Nerd Font Mono 
+    style: Regular
+  size: 12.0
+
+cursor:
+  style:
+    blinking: Always
+  blink_interval: 500
+  blink_timeout: 0
+colors:
+  # Default colors
+  primary:
+    background: '0x121212'
+    foreground: '0xfffefe'
+
+  # Cursor colors
+  cursor:
+    text:   '0x000000'
+    cursor: '0xf4bb40'
+
+  # Normal colors
+  normal:
+    black:   '0x161616'
+    red:     '0xff4297'
+    green:   '0x00c160'
+    yellow:  '0xf4bb40'
+    blue:    '0x69abff'
+    magenta: '0xc693ff'
+    cyan:    '0x00b4ff'
+    white:   '0xdfdfe0'
+
+  # Bright colors
+  bright:
+    black:   '0x484848'
+    red:     '0xff62a8'
+    green:   '0x00cb79'
+    yellow:  '0xffd500'
+    blue:    '0x80b7ff'
+    magenta: '0xcfa3ff'
+    cyan:    '0x00c0ff'
+    white:   '0xe4e4e5'
+#colors:
+#  # Default Colors
+#  primary:
+#    background: '0x121212'
+#    foreground: '0xf1f1f1'
+#  # Normal colors
+#  normal:
+#    black:   '0x191919'
+#    red:     '0xfa4d56'
+#    green:   '0x24a148'
+#    yellow:  '0xF1C21B'
+#    blue:    '0x33b1ff'
+#    magenta: '0x9f1853'
+#    cyan:    '0x3ddbd9'
+#    white:   '0xf7f3f2'
+#  # Bright colors
+#  bright:
+#    black:   '0x818181'
+#    red:     '0xff8389'
+#    green:   '0x42be65'    
+#    yellow:  '0xF1C21B'
+#    blue:    '0x78a9ff'
+#    magenta: '0xd02670'
+#    cyan:    '0x007d79'
+#    white:   '0xffffff'
+#
