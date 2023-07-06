@@ -9,7 +9,7 @@ require('nightfox').setup({
     }
   }
 })
-vim.cmd("colorscheme carbonfox")
+vim.cmd("colorscheme carbonfox") -- change to solarized
 --vim.cmd [[
 --try
 --  colorscheme carbonfox 

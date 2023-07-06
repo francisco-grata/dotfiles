@@ -69,7 +69,7 @@ return packer.startup(function(use)
 
 	-- Colorschemes
 	use "EdenEast/nightfox.nvim"
-    use 'shaunsingh/solarized.nvim'
+    use "ishan9299/nvim-solarized-lua"
   -- cmp plugins
 	use({ "hrsh7th/nvim-cmp"}) -- The completion plugin
 	use({ "hrsh7th/cmp-buffer"}) -- buffer completions
